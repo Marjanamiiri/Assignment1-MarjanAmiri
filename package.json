@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "dev": "npx tailwindcss -i ./styles/input.css -o ./dist/output.css --watch"
+  },
+  "devDependencies": {
+    "daisyui": "^3.8.3",
+    "tailwindcss": "^3.3.3"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.2"
+  }
+}
